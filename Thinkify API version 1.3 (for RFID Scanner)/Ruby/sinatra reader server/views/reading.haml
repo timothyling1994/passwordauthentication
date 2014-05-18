@@ -1,0 +1,11 @@
+%h1 Status
+%form{:action => "/reading", :method => "post"}
+  %legend
+    Reading Active = #{@reading_active}
+  %p
+    %label{:for => ""} New Value
+    %input{:type => "textbox", :name => "reading_active", :id => "reading_active"}
+  %p
+    %input{:type => "submit", :value => "Submit!"}
+    
+  %a(href="/") Home

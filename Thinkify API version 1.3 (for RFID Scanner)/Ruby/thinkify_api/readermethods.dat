@@ -1,0 +1,43 @@
+#Reader Methods file
+#Copyright 2012, Thinkify LLC. All rights reserved
+
+##############################
+# bootloader enter bootloader
+##############################
+
+  bootloader   bootloader do
+
+##############################
+# v firmware version
+##############################
+
+  version           v get
+
+##############################
+# i Inventory parameters
+##############################
+  inventory_params  i  do
+  i                 i  do
+  resetinv          id do
+  innerloop         ii getset
+  outerloop         io getset
+  q                 iq getset
+  selectloop        iw getset
+  seltype           il getset
+  session           is getset
+  target            it getset
+  xpcenable         ix getset
+  pause             ip getset
+  
+
+##############################
+# r rf parameters
+##############################
+  freq              rf getset
+  atten             ra getset
+ 
+##############################
+# LED parameters
+##############################
+  led               slm getset
+  freeleds          sla do

@@ -1,0 +1,15 @@
+%h1 Taglist - #{@tag_list.count} Tags
+%table
+  %tr
+    %td Number 
+    %td EPC
+    %td Count
+  - i=1
+  - @tag_list.each do |tag|
+    %tr 
+      %td #{i}.
+      %td #{tag.epc}
+      %td #{tag.count}
+    - i = i+1 
+%br
+%a(href="/") Home

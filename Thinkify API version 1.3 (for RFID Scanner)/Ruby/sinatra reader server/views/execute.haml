@@ -1,0 +1,12 @@
+%h1 Execute a Reader Command
+%form{:action => "/execute", :method => "post"}
+  %p
+    %label{:for => ""} Command To Execute
+    %input{:type => "textbox", :name => "reader_command", :id => "reader_command"}
+  %p
+    %input{:type => "submit", :value => "Execute!"}
+  %legend
+    %h2 Result
+    #{@reader_response}
+    
+  %a(href="/") Home

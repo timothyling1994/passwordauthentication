@@ -1,0 +1,9 @@
+frmThinkifyReader = 5, -2, 1135, 778, , 66, 66, 479, 451, C
+ctlSendReceive = 88, 88, 568, 473, , 176, 176, 847, 627, C
+ThinkifyTypes = 88, 88, 641, 758, 
+clsTimer = 242, 242, 827, 860, 
+IniFunctions = 132, 132, 730, 614, 
+clsThinkifyReader = 196, 64, 1178, 822, 
+utilityFunctions = 286, 286, 960, 904, 
+frmSplash = 198, 198, 851, 750, , 264, 264, 776, 882, C
+frmHotKey = 0, 0, 703, 552, , 264, 264, 967, 816, C

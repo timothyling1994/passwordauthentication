@@ -1,0 +1,18 @@
+/ In the "views/" subdirectory
+%h1 
+  Hello! I'm a TR-200 RFID Reader from 
+  %a(href="http://thinkifyit.com") Thinkify
+%p Current Time: #{@time}
+%p Firmware Version: #{@version}
+%p Reading Tags: #{@reading}
+%h2
+  Options
+%ul
+  %a(href="/execute")
+    %li Set reader Parameters
+  %a(href="/reading")   
+    %li (De)Activate Reading
+  %a(href="/taglist")  
+    %li Get Taglist
+  %a(href="/program_epc")  
+    %li Program a Tag's EPC

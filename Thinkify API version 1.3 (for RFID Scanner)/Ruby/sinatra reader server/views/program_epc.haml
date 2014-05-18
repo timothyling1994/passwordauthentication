@@ -1,0 +1,13 @@
+%h1 Program A Tag
+%form{:action => "/program_epc", :method => "post"}
+  %p
+    %label{:for => ""} EPC To Program
+    %input{:type => "textbox", :name => "target_epc", :id => "target_epc", :value=>"#{@target_epc}", :size=> 50}
+    %input{:type => "checkbox", :name => "increment_epc", :id => "increment_epc", :checked=>@increment_epc} Auto-Increment 
+  %p
+    %input{:type => "submit", :value => "Program!"}
+  %legend
+    %h2 Result:  #{@reader_response}
+    
+  %a(href="/") Home
+ 

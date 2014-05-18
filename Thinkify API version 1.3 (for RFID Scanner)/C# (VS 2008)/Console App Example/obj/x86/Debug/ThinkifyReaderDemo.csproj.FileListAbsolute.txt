@@ -1,0 +1,52 @@
+C:\programming\c#\ThinkifyReader\ThinkifyReaderDemo\ThinkifyReaderDemo\bin\Debug\ThinkifyReaderDemo.exe
+C:\programming\c#\ThinkifyReader\ThinkifyReaderDemo\ThinkifyReaderDemo\bin\Debug\ThinkifyReaderDemo.pdb
+C:\programming\c#\ThinkifyReader\ThinkifyReaderDemo\ThinkifyReaderDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\programming\c#\ThinkifyReader\ThinkifyReaderDemo\ThinkifyReaderDemo\obj\x86\Debug\ThinkifyReaderDemo.exe
+C:\programming\c#\ThinkifyReader\ThinkifyReaderDemo\ThinkifyReaderDemo\obj\x86\Debug\ThinkifyReaderDemo.pdb
+C:\programming\Thinkify Developers Kit CD\Software APIs\C#(VS 2008)\Thinkify Reader Demo\ThinkifyReaderDemo\obj\x86\Debug\ThinkifyReaderDemo.exe
+C:\programming\Thinkify Developers Kit CD\Software APIs\C#(VS 2008)\Thinkify Reader Demo\ThinkifyReaderDemo\obj\x86\Debug\ThinkifyReaderDemo.pdb
+C:\programming\Thinkify Developers Kit CD\Software APIs\C#(VS 2008)\Thinkify Reader Demo\ThinkifyReaderDemo\bin\Debug\ThinkifyReaderDemo.exe
+C:\programming\Thinkify Developers Kit CD\Software APIs\C#(VS 2008)\Thinkify Reader Demo\ThinkifyReaderDemo\bin\Debug\ThinkifyReaderDemo.pdb
+C:\programming\Thinkify Developers Kit CD\Software APIs\C#(VS 2008)\Thinkify Reader Demo\ThinkifyReaderDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\programming\Thinkify Developers Kit CD 1.1\Software APIs\C#(VS 2008)\Thinkify Reader Demo\ThinkifyReaderDemo\obj\x86\Debug\ThinkifyReaderDemo.exe
+C:\programming\Thinkify Developers Kit CD 1.1\Software APIs\C#(VS 2008)\Thinkify Reader Demo\ThinkifyReaderDemo\obj\x86\Debug\ThinkifyReaderDemo.pdb
+C:\programming\Thinkify Developers Kit CD 1.1\Software APIs\C#(VS 2008)\Thinkify Reader Demo\ThinkifyReaderDemo\bin\Debug\ThinkifyReaderDemo.exe
+C:\programming\Thinkify Developers Kit CD 1.1\Software APIs\C#(VS 2008)\Thinkify Reader Demo\ThinkifyReaderDemo\bin\Debug\ThinkifyReaderDemo.pdb
+C:\programming\Thinkify Developers Kit CD 1.1\Software APIs\C#(VS 2008)\Thinkify Reader Demo\ThinkifyReaderDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\programming\Thinkify Developers Kit CD 1.2\Software APIs\C#(VS 2008)\Thinkify Reader Demo\ThinkifyReaderDemo\obj\x86\Debug\ThinkifyReaderDemo.exe
+C:\programming\Thinkify Developers Kit CD 1.2\Software APIs\C#(VS 2008)\Thinkify Reader Demo\ThinkifyReaderDemo\obj\x86\Debug\ThinkifyReaderDemo.pdb
+C:\programming\c#\ThinkifyReader\ThinkifyReaderDemo\obj\x86\Debug\ThinkifyReaderDemo.exe
+C:\programming\c#\ThinkifyReader\ThinkifyReaderDemo\obj\x86\Debug\ThinkifyReaderDemo.pdb
+C:\programming\c#\ThinkifyReader\ThinkifyReaderDemo\bin\Debug\ThinkifyReaderDemo.exe
+C:\programming\c#\ThinkifyReader\ThinkifyReaderDemo\bin\Debug\ThinkifyReaderDemo.pdb
+C:\programming\c#\ThinkifyReader\ThinkifyReaderDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Desktop\Thinkify\Programming\c#\ThinkifyReader\ThinkifyReaderDemo\obj\x86\Debug\ThinkifyReaderDemo.exe
+C:\Users\John\Desktop\Thinkify\Programming\c#\ThinkifyReader\ThinkifyReaderDemo\obj\x86\Debug\ThinkifyReaderDemo.pdb
+C:\Users\John\Desktop\Thinkify\Programming\c#\ThinkifyReader\ThinkifyReaderDemo\bin\Debug\ThinkifyReaderDemo.exe
+C:\Users\John\Desktop\Thinkify\Programming\c#\ThinkifyReader\ThinkifyReaderDemo\bin\Debug\ThinkifyReaderDemo.pdb
+C:\Users\John\Desktop\Thinkify\Programming\c#\ThinkifyReader\ThinkifyReaderDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Console Demo\obj\x86\Debug\ThinkifyReaderDemo.exe
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Console Demo\obj\x86\Debug\ThinkifyReaderDemo.pdb
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Console Demo\bin\Debug\ThinkifyReaderDemo.exe
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Console Demo\bin\Debug\ThinkifyReaderDemo.pdb
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Console Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Thinkify Reader Demo\obj\x86\Debug\ThinkifyReaderDemo.exe
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Thinkify Reader Demo\obj\x86\Debug\ThinkifyReaderDemo.pdb
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Thinkify Reader Demo\bin\Debug\ThinkifyReaderDemo.exe
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Thinkify Reader Demo\bin\Debug\ThinkifyReaderDemo.pdb
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Thinkify Reader Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Desktop\Thinkify Reader Demo\bin\Debug\ThinkifyReaderDemo.exe
+C:\Users\John\Desktop\Thinkify Reader Demo\bin\Debug\ThinkifyReaderDemo.pdb
+C:\Users\John\Desktop\Thinkify Reader Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Desktop\Thinkify Reader Demo\obj\x86\Debug\ThinkifyReaderDemo.exe
+C:\Users\John\Desktop\Thinkify Reader Demo\obj\x86\Debug\ThinkifyReaderDemo.pdb
+C:\Users\John\Desktop\Console App Example\obj\x86\Debug\ThinkifyReaderDemo.exe
+C:\Users\John\Desktop\Console App Example\obj\x86\Debug\ThinkifyReaderDemo.pdb
+C:\Users\John\Desktop\Console App Example\bin\Debug\ThinkifyReaderDemo.exe
+C:\Users\John\Desktop\Console App Example\bin\Debug\ThinkifyReaderDemo.pdb
+C:\Users\John\Desktop\Console App Example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Console App Example\bin\Debug\ThinkifyReaderDemo.exe
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Console App Example\bin\Debug\ThinkifyReaderDemo.pdb
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Console App Example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Console App Example\obj\x86\Debug\ThinkifyReaderDemo.exe
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Console App Example\obj\x86\Debug\ThinkifyReaderDemo.pdb

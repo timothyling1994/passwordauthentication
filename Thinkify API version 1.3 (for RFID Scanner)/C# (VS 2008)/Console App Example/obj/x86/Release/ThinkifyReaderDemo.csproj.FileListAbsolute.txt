@@ -1,0 +1,5 @@
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Thinkify Reader Demo\bin\Release\ThinkifyReaderDemo.exe
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Thinkify Reader Demo\bin\Release\ThinkifyReaderDemo.pdb
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Thinkify Reader Demo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Thinkify Reader Demo\obj\x86\Release\ThinkifyReaderDemo.exe
+C:\Users\John\Desktop\Thinkify\Programming\Thinkify Developers Kit CD 1.3\Software APIs\C# (VS 2008)\Thinkify Reader Demo\obj\x86\Release\ThinkifyReaderDemo.pdb
